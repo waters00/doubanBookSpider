@@ -1,0 +1,2 @@
+# doubanBookSpider
+用Scrapy实现的一个爬取豆瓣读书TOP250的练手项目，初学者可以参考
